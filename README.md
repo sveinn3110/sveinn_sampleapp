@@ -1,2 +1,2 @@
 #myapp
-This is a github test pap
+This is a github test app
